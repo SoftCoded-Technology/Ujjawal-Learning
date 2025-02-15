@@ -1,0 +1,38 @@
+Task 0
+Every program should be on a route.
+Home route -> list to select/view the task
+Task1 -> it wil redirect to diferent route where task 1 will be rendered.
+--------
+Task 1
+button -> count
+----------------
+Task 2
+inputBox -> button
+History
+searched keys
+whenpress button text from input box will move to history
+if text in input is "clear" _. it will clear the search histroy (edited)
+------
+Task 3
+useEffect -> entire life cyclel, different scenario when useEffect runs
+Find out the useCase of useEffect
+ex -> useEffect will run on 1st render, useEffect will run on every render
+useEffect -> practice the code of each type
+-----
+Task 4
+Do all thing again with using redux
+----
+Task 5
+RTK Query -> Dummy api for weather , climate
+unko use krke show kro, usp kuch operation perform using redux or react state
+_-----
+Task 6
+Usage of localStorage
+----
+Task 7
+Usage of cookie, mutipleways of use, pros and cons of each use.
+11:20
+Note ->
+Create one project
+Create proper folder structure
+proper file structuring and naming
