@@ -41,11 +41,14 @@ proper file structuring and naming
 ----------------------------------------------------------------------------------
 
 MUI
-Typography
-Box
-Stack
-Container
-Custom Theme
-Button
-Card
-Paper
+Typography   ✅
+Box         
+Stack       
+Container    ✅
+Custom Theme ✅
+Button       ✅
+Card         ✅
+Paper        ✅
+
+
+http://api.openweathermap.org/data/2.5/weather?q=${cityVal}&units=metric&appid=99dfa9cce95531d5becd415291e48eef
